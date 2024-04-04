@@ -1,7 +1,7 @@
-#New York Congestion Tax Simulation
-*Social Networking course final project
-*model used: USTGCN
-*project details:[presentation](https://docs.google.com/presentation/d/1nlA-2BOfXQxU7qbPJyIH-TnYKpbzSik3pXnChvElh4s/edit?usp=sharing)
+# New York Congestion Tax Simulation
+* Social Networking course final project
+* model used: USTGCN
+* project details:[presentation](https://docs.google.com/presentation/d/1nlA-2BOfXQxU7qbPJyIH-TnYKpbzSik3pXnChvElh4s/edit?usp=sharing)
 [report](https://docs.google.com/document/d/1SUGsL3zP78imqTSDXKBv5IKQRvNO4whCKbR2qVjSMiM/edit?usp=sharing)
 
 
