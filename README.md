@@ -7,13 +7,6 @@
 
 ## USTGCN: Unified Spatio-Temporal Modeling for Traffic Forecasting using Graph Neural Network
 
-**Authors**
-- [Amit Roy](https://amitroy7781.github.io/)
-- [Kashob Kumar Roy](https://www.linkedin.com/in/forkkr/) 
-- [Amin Ahsan Ali](http://www.cse.iub.edu.bd/faculties/53)
-- [M Ashraful Amin](http://www.cse.iub.edu.bd/faculties/25) 
-- [A K M Mahbubur Rahman](http://www.cse.iub.edu.bd/faculties/56)
-
 This is a pytorch implementation of our [paper](https://arxiv.org/abs/2104.12518) "Unified Spatio-Temporal Modeling for Traffic Forecasting using Graph Neural Network" which has been accepted by IJCNN 2021.  Check the video presentation of our paper [here](https://youtu.be/95EJAFOsUmY).
 
 
